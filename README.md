@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Pramu-99
 - 👀 I’m interested in Java and C++
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-Currently I am a Student at University of Vavuniya who is following a IT Degree.
 
 <!---
 Pramu-99/Pramu-99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
