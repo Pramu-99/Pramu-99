@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @Pramu-99
-- 👀 I’m interested in Java and C++
-- I'm also interested in Web Applicaton Development Languages Like Node JS and Express JS 
--Currently I am a Student at University of Vavuniya who is following a IT Degree.
-
 <h1 align="center">Hi 👋, I'm Pramudith Jayasekara</h1>
 <h3 align="center">A passionate developer from SriLanka</h3>
 
