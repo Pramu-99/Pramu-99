@@ -26,4 +26,7 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/Pramu-99/Pramu-99/output/snake.svg" alt="Snake animation" />
+
 ###
+
